@@ -12,7 +12,7 @@ or
 Alternatively for Linux/Unix/MacOS:
 
 ```sh
-curl -LSs https://raw.githubusercontent.com/fnproject/cli/master/install | sh
+curl -LSs https://raw.githubusercontent.com/rijulsudhir/fn-1-cli/master/install | sh
 ```
 
 ## General Information
