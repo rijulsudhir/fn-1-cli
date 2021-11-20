@@ -1,10 +1,10 @@
-# Fn CLI
+# Fn CLI FORK (https://github.com/fnproject/cli is the real project)
 [![CircleCI](https://circleci.com/gh/fnproject/cli.svg?style=svg)](https://circleci.com/gh/fnproject/cli)
 
 ## Install
 MacOS installation:
 ```sh
-brew update && brew install fn
+~~brew update && brew install fn~~
 ```
 
 or
@@ -12,7 +12,7 @@ or
 Alternatively for Linux/Unix/MacOS:
 
 ```sh
-curl -LSs https://raw.githubusercontent.com/fnproject/cli/master/install | sh
+curl -LSs https://raw.githubusercontent.com/rijulsudhir/fn-1-cli/master/install | sh
 ```
 
 ## General Information

@@ -3,7 +3,7 @@ set -e
 
 # Install script to install fn
 
-version=`curl --silent https://api.github.com/repos/fnproject/cli/releases/latest  | grep tag_name | cut -f 2 -d : | cut -f 2 -d '"'`
+version=`curl --silent https://api.github.com/repos/rijulsudhir/fn-1-cli/releases/latest  | grep tag_name | cut -f 2 -d : | cut -f 2 -d '"'`
 
 command_exists() {
   command -v "$@" > /dev/null 2>&1
@@ -47,7 +47,7 @@ else
     exit 1
 fi
 
-url='https://github.com/fnproject/cli/releases/download'
+url='https://github.com/rijulsudhir/fn-1-cli/releases/download'
 
 # perform some very rudimentary platform detection
 case "$(uname)" in
