@@ -3,9 +3,8 @@
 
 ## Install
 MacOS installation:
-```sh
-~~brew update && brew install fn~~
-```
+
+<S>sh brew update && brew install fn</S>
 
 or
 
